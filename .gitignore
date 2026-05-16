@@ -1,0 +1,23 @@
+# Local IDE and machine files
+.idea/
+*.iml
+local.properties
+
+# Gradle and Kotlin caches
+.gradle/
+.kotlin/
+build/
+app/build/
+
+# Build outputs
+*.apk
+*.aab
+*.ap_
+
+# Temporary document renders
+docs/rendered_interface_doc/
+docs/rendered_interface_doc_real/
+docs/StyleShopUIDemo_Telas_Resumo.png
+
+# Source asset dump already normalized into app resources
+assets/
